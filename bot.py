@@ -2,9 +2,9 @@ from pyrogram import Client, filters
 from pyrogram.types import Message
 
 # # ====== REQUIRED DETAILS ======
-API_ID =    34028673          # yahan apna API_ID
-API_HASH = "5bb0ce0f6b1c36c09a944e08ba9d4c68"   # yahan apna API_HASH
-BOT_TOKEN = "AAFdVYd0ffngIe23IU9NGTWo5Ry4yv5ANKU" # BotFather se mila token
+API_ID =34028673          # yahan apna API_ID
+API_HASH =5bb0ce0f6b1c36c09a944e08ba9d4c68   # yahan apna API_HASH
+BOT_TOKEN =AAFdVYd0ffngIe23IU9NGTWo5Ry4yv5ANKU # BotFather se mila token
 # ==============================
 
 app = Client(
